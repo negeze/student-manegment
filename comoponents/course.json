@@ -1,0 +1,20 @@
+{
+    "course": [
+      {
+        "id": 1,
+        "image": "../materail/developers.jpg",
+        "title": "Web Development"
+      },
+      {
+        "id": 2,
+        "image": "../materail/MACHINE.png",
+        "title": "Machine learning"
+      },
+      {
+        "id":"3",
+        "image":"../materail/AI.PNG",
+        "title":"Artificial Intellegence "
+      }
+    ]
+  }
+  
